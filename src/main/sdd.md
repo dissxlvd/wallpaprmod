@@ -1,0 +1,3 @@
+---
+- Wireframe block to hold multiple (half-and-half like vertical slabs or smth else) blocks at once
+- Wallpaper block (no collision, no AO, visible only from the side of a block it's placed on, can be placed behind blocks e.g. stairs near a wall and a wallpaper in between)
